@@ -3,270 +3,495 @@
     "id": 1,
     "title": "Notion",
     "companyName": "Notion Labs Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "image": "https://www.google.com/s2/favicons?domain=notion.so&sz=128",
     "description": "Notion is an all-in-one workspace for notes, tasks, wikis, and databases. Teams and individuals use it to organize their work, manage projects, and collaborate in real time. It combines the functionality of a note-taking app, project management tool, and knowledge base into one flexible platform.",
     "size": 35,
-    "reviews": 2900000,
+    "reviews": 142000,
     "ratingAvg": 4.7,
-    "downloads": 300000000,
+    "downloads": 4200000,
     "ratings": [
-      { "name": "1 star", "count": 45000 },
-      { "name": "2 star", "count": 32000 },
-      { "name": "3 star", "count": 98000 },
-      { "name": "4 star", "count": 620000 },
-      { "name": "5 star", "count": 2105000 }
+      {
+        "name": "1 star",
+        "count": 2203
+      },
+      {
+        "name": "2 star",
+        "count": 1567
+      },
+      {
+        "name": "3 star",
+        "count": 4799
+      },
+      {
+        "name": "4 star",
+        "count": 30359
+      },
+      {
+        "name": "5 star",
+        "count": 103072
+      }
     ]
   },
   {
     "id": 2,
     "title": "Todoist",
     "companyName": "Doist Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Todoist_logo.png/240px-Todoist_logo.png",
+    "image": "https://www.google.com/s2/favicons?domain=todoist.com&sz=128",
     "description": "Todoist is a powerful task manager and to-do list app that helps you organize your work and life. With features like recurring due dates, priority levels, project templates, and team collaboration, Todoist keeps you on top of everything that matters.",
     "size": 28,
-    "reviews": 1800000,
+    "reviews": 98000,
     "ratingAvg": 4.6,
-    "downloads": 50000000,
+    "downloads": 2800000,
     "ratings": [
-      { "name": "1 star", "count": 28000 },
-      { "name": "2 star", "count": 19000 },
-      { "name": "3 star", "count": 72000 },
-      { "name": "4 star", "count": 380000 },
-      { "name": "5 star", "count": 1301000 }
+      {
+        "name": "1 star",
+        "count": 1524
+      },
+      {
+        "name": "2 star",
+        "count": 1034
+      },
+      {
+        "name": "3 star",
+        "count": 3920
+      },
+      {
+        "name": "4 star",
+        "count": 20689
+      },
+      {
+        "name": "5 star",
+        "count": 70832
+      }
     ]
   },
   {
     "id": 3,
     "title": "Trello",
     "companyName": "Atlassian",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/240px-Trello_logo.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=trello.com&sz=128",
     "description": "Trello is a visual project management tool that uses boards, lists, and cards to help teams organize and prioritize projects in a fun, flexible, and rewarding way. It's perfect for managing workflows, tracking progress, and collaborating with your team.",
     "size": 42,
-    "reviews": 3200000,
+    "reviews": 176000,
     "ratingAvg": 4.5,
-    "downloads": 100000000,
+    "downloads": 5100000,
     "ratings": [
-      { "name": "1 star", "count": 52000 },
-      { "name": "2 star", "count": 38000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 720000 },
-      { "name": "5 star", "count": 2270000 }
+      {
+        "name": "1 star",
+        "count": 2860
+      },
+      {
+        "name": "2 star",
+        "count": 2090
+      },
+      {
+        "name": "3 star",
+        "count": 6600
+      },
+      {
+        "name": "4 star",
+        "count": 39600
+      },
+      {
+        "name": "5 star",
+        "count": 124850
+      }
     ]
   },
   {
     "id": 4,
     "title": "Slack",
     "companyName": "Salesforce Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/240px-Slack_icon_2019.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=slack.com&sz=128",
     "description": "Slack is a messaging platform built for teams. It replaces email with organized channels, direct messages, and powerful integrations with tools like Google Drive, GitHub, and Zoom. Slack makes it easy to find the right people and information quickly.",
     "size": 55,
-    "reviews": 4100000,
+    "reviews": 210000,
     "ratingAvg": 4.4,
-    "downloads": 200000000,
+    "downloads": 6300000,
     "ratings": [
-      { "name": "1 star", "count": 78000 },
-      { "name": "2 star", "count": 55000 },
-      { "name": "3 star", "count": 160000 },
-      { "name": "4 star", "count": 890000 },
-      { "name": "5 star", "count": 2917000 }
+      {
+        "name": "1 star",
+        "count": 3995
+      },
+      {
+        "name": "2 star",
+        "count": 2817
+      },
+      {
+        "name": "3 star",
+        "count": 8195
+      },
+      {
+        "name": "4 star",
+        "count": 45585
+      },
+      {
+        "name": "5 star",
+        "count": 149407
+      }
     ]
   },
   {
     "id": 5,
     "title": "Evernote",
     "companyName": "Evernote Corporation",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2021_Evernote_logo.svg/240px-2021_Evernote_logo.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=evernote.com&sz=128",
     "description": "Evernote is a note-taking and organization app that helps you capture ideas, create to-do lists, and save web articles. With powerful search, tags, and notebooks, Evernote keeps all your information organized and accessible across all your devices.",
     "size": 48,
-    "reviews": 2600000,
+    "reviews": 134000,
     "ratingAvg": 4.3,
-    "downloads": 250000000,
+    "downloads": 3600000,
     "ratings": [
-      { "name": "1 star", "count": 68000 },
-      { "name": "2 star", "count": 47000 },
-      { "name": "3 star", "count": 145000 },
-      { "name": "4 star", "count": 580000 },
-      { "name": "5 star", "count": 1760000 }
+      {
+        "name": "1 star",
+        "count": 3505
+      },
+      {
+        "name": "2 star",
+        "count": 2422
+      },
+      {
+        "name": "3 star",
+        "count": 7473
+      },
+      {
+        "name": "4 star",
+        "count": 29892
+      },
+      {
+        "name": "5 star",
+        "count": 90708
+      }
     ]
   },
   {
     "id": 6,
     "title": "Microsoft Teams",
     "companyName": "Microsoft Corporation",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
     "description": "Microsoft Teams is a collaboration platform that combines workplace chat, video meetings, file storage, and application integration. It's the hub for teamwork in Microsoft 365, enabling remote and hybrid teams to stay connected and productive.",
     "size": 72,
-    "reviews": 5800000,
+    "reviews": 298000,
     "ratingAvg": 4.3,
-    "downloads": 500000000,
+    "downloads": 8900000,
     "ratings": [
-      { "name": "1 star", "count": 145000 },
-      { "name": "2 star", "count": 98000 },
-      { "name": "3 star", "count": 280000 },
-      { "name": "4 star", "count": 1200000 },
-      { "name": "5 star", "count": 4077000 }
+      {
+        "name": "1 star",
+        "count": 7450
+      },
+      {
+        "name": "2 star",
+        "count": 5035
+      },
+      {
+        "name": "3 star",
+        "count": 14386
+      },
+      {
+        "name": "4 star",
+        "count": 61655
+      },
+      {
+        "name": "5 star",
+        "count": 209473
+      }
     ]
   },
   {
     "id": 7,
     "title": "Asana",
     "companyName": "Asana Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Asana_logo.svg/240px-Asana_logo.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=asana.com&sz=128",
     "description": "Asana is a work management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives. With timelines, boards, and automation, Asana gives every team the clarity to focus on what matters most.",
     "size": 38,
-    "reviews": 1500000,
+    "reviews": 87000,
     "ratingAvg": 4.5,
-    "downloads": 80000000,
+    "downloads": 2400000,
     "ratings": [
-      { "name": "1 star", "count": 22000 },
-      { "name": "2 star", "count": 16000 },
-      { "name": "3 star", "count": 58000 },
-      { "name": "4 star", "count": 320000 },
-      { "name": "5 star", "count": 1084000 }
+      {
+        "name": "1 star",
+        "count": 1276
+      },
+      {
+        "name": "2 star",
+        "count": 928
+      },
+      {
+        "name": "3 star",
+        "count": 3364
+      },
+      {
+        "name": "4 star",
+        "count": 18560
+      },
+      {
+        "name": "5 star",
+        "count": 62872
+      }
     ]
   },
   {
     "id": 8,
     "title": "Google Keep",
     "companyName": "Google LLC",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Keep_icon_%282015-2020%29.svg/240px-Google_Keep_icon_%282015-2020%29.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=keep.google.com&sz=128",
     "description": "Google Keep is a note-taking service that allows users to create notes, lists, drawings, and record voice memos. Notes can be color-coded, labeled, and shared with others. It syncs seamlessly across all your Google devices.",
     "size": 18,
-    "reviews": 3900000,
+    "reviews": 112000,
     "ratingAvg": 4.6,
-    "downloads": 1000000000,
+    "downloads": 2900000,
     "ratings": [
-      { "name": "1 star", "count": 58000 },
-      { "name": "2 star", "count": 42000 },
-      { "name": "3 star", "count": 130000 },
-      { "name": "4 star", "count": 820000 },
-      { "name": "5 star", "count": 2850000 }
+      {
+        "name": "1 star",
+        "count": 1666
+      },
+      {
+        "name": "2 star",
+        "count": 1206
+      },
+      {
+        "name": "3 star",
+        "count": 3733
+      },
+      {
+        "name": "4 star",
+        "count": 23549
+      },
+      {
+        "name": "5 star",
+        "count": 81846
+      }
     ]
   },
   {
     "id": 9,
     "title": "Zoom",
     "companyName": "Zoom Video Communications",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zoom_Communications_Logo.svg/240px-Zoom_Communications_Logo.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=zoom.us&sz=128",
     "description": "Zoom is a video communications platform that provides video conferencing, online meetings, chat, and mobile collaboration. It's used by millions of businesses and individuals for remote work, virtual events, webinars, and online education.",
     "size": 60,
-    "reviews": 4500000,
+    "reviews": 98000,
     "ratingAvg": 4.3,
-    "downloads": 900000000,
+    "downloads": 3100000,
     "ratings": [
-      { "name": "1 star", "count": 195000 },
-      { "name": "2 star", "count": 130000 },
-      { "name": "3 star", "count": 350000 },
-      { "name": "4 star", "count": 1050000 },
-      { "name": "5 star", "count": 2775000 }
+      {
+        "name": "1 star",
+        "count": 4247
+      },
+      {
+        "name": "2 star",
+        "count": 2831
+      },
+      {
+        "name": "3 star",
+        "count": 7622
+      },
+      {
+        "name": "4 star",
+        "count": 22867
+      },
+      {
+        "name": "5 star",
+        "count": 60433
+      }
     ]
   },
   {
     "id": 10,
     "title": "Canva",
     "companyName": "Canva Pty Ltd",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/240px-Canva_Logo.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
     "description": "Canva is a graphic design platform used to create presentations, social media graphics, posters, and documents. With thousands of templates and a drag-and-drop interface, anyone can design professional-quality visuals without any design experience.",
     "size": 50,
-    "reviews": 3700000,
+    "reviews": 76000,
     "ratingAvg": 4.7,
-    "downloads": 500000000,
+    "downloads": 1800000,
     "ratings": [
-      { "name": "1 star", "count": 38000 },
-      { "name": "2 star", "count": 28000 },
-      { "name": "3 star", "count": 95000 },
-      { "name": "4 star", "count": 780000 },
-      { "name": "5 star", "count": 2759000 }
+      {
+        "name": "1 star",
+        "count": 781
+      },
+      {
+        "name": "2 star",
+        "count": 575
+      },
+      {
+        "name": "3 star",
+        "count": 1951
+      },
+      {
+        "name": "4 star",
+        "count": 16022
+      },
+      {
+        "name": "5 star",
+        "count": 56671
+      }
     ]
   },
   {
     "id": 11,
     "title": "Grammarly",
     "companyName": "Grammarly Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Grammarly_logo.svg/240px-Grammarly_logo.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=grammarly.com&sz=128",
     "description": "Grammarly is an AI-powered writing assistant that helps you write clearly and effectively. It checks grammar, spelling, punctuation, clarity, engagement, and delivery mistakes in real time, making your writing more polished and professional.",
     "size": 32,
-    "reviews": 2200000,
+    "reviews": 68000,
     "ratingAvg": 4.6,
-    "downloads": 150000000,
+    "downloads": 1500000,
     "ratings": [
-      { "name": "1 star", "count": 32000 },
-      { "name": "2 star", "count": 24000 },
-      { "name": "3 star", "count": 88000 },
-      { "name": "4 star", "count": 460000 },
-      { "name": "5 star", "count": 1596000 }
+      {
+        "name": "1 star",
+        "count": 989
+      },
+      {
+        "name": "2 star",
+        "count": 742
+      },
+      {
+        "name": "3 star",
+        "count": 2720
+      },
+      {
+        "name": "4 star",
+        "count": 14218
+      },
+      {
+        "name": "5 star",
+        "count": 49331
+      }
     ]
   },
   {
     "id": 12,
     "title": "Forest",
     "companyName": "Seekrtech Co. Ltd.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Forest_app_logo.png/240px-Forest_app_logo.png",
+    "image": "https://www.google.com/s2/favicons?domain=forestapp.cc&sz=128",
     "description": "Forest is a focus and productivity app that helps you stay off your phone and concentrate on what matters. Plant a virtual tree and watch it grow while you work. If you leave the app, your tree dies. Build a forest of focus and track your productive time.",
     "size": 22,
-    "reviews": 980000,
+    "reviews": 42000,
     "ratingAvg": 4.8,
-    "downloads": 10000000,
+    "downloads": 800000,
     "ratings": [
-      { "name": "1 star", "count": 8000 },
-      { "name": "2 star", "count": 6000 },
-      { "name": "3 star", "count": 22000 },
-      { "name": "4 star", "count": 180000 },
-      { "name": "5 star", "count": 764000 }
+      {
+        "name": "1 star",
+        "count": 343
+      },
+      {
+        "name": "2 star",
+        "count": 257
+      },
+      {
+        "name": "3 star",
+        "count": 943
+      },
+      {
+        "name": "4 star",
+        "count": 7714
+      },
+      {
+        "name": "5 star",
+        "count": 32743
+      }
     ]
   },
   {
     "id": 13,
     "title": "Clockify",
     "companyName": "CAKE.com Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clockify_logo.svg/240px-Clockify_logo.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=clockify.me&sz=128",
     "description": "Clockify is a free time tracking app for teams. Track work hours across projects, generate reports, and manage your team's time. It's used by freelancers, agencies, and businesses to track billable hours and improve productivity.",
     "size": 26,
-    "reviews": 620000,
+    "reviews": 28000,
     "ratingAvg": 4.5,
-    "downloads": 20000000,
+    "downloads": 600000,
     "ratings": [
-      { "name": "1 star", "count": 9000 },
-      { "name": "2 star", "count": 7000 },
-      { "name": "3 star", "count": 28000 },
-      { "name": "4 star", "count": 130000 },
-      { "name": "5 star", "count": 446000 }
+      {
+        "name": "1 star",
+        "count": 406
+      },
+      {
+        "name": "2 star",
+        "count": 316
+      },
+      {
+        "name": "3 star",
+        "count": 1265
+      },
+      {
+        "name": "4 star",
+        "count": 5871
+      },
+      {
+        "name": "5 star",
+        "count": 20142
+      }
     ]
   },
   {
     "id": 14,
     "title": "Google Calendar",
     "companyName": "Google LLC",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/240px-Google_Calendar_icon_%282020%29.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=calendar.google.com&sz=128",
     "description": "Google Calendar is a time-management and scheduling calendar service. It helps you organize your schedule, set reminders, create events, and share calendars with others. Integrated with Gmail and other Google services for seamless productivity.",
     "size": 20,
-    "reviews": 6200000,
+    "reviews": 198000,
     "ratingAvg": 4.6,
-    "downloads": 2000000000,
+    "downloads": 2900000,
     "ratings": [
-      { "name": "1 star", "count": 95000 },
-      { "name": "2 star", "count": 68000 },
-      { "name": "3 star", "count": 210000 },
-      { "name": "4 star", "count": 1300000 },
-      { "name": "5 star", "count": 4527000 }
+      {
+        "name": "1 star",
+        "count": 3034
+      },
+      {
+        "name": "2 star",
+        "count": 2172
+      },
+      {
+        "name": "3 star",
+        "count": 6706
+      },
+      {
+        "name": "4 star",
+        "count": 41516
+      },
+      {
+        "name": "5 star",
+        "count": 144572
+      }
     ]
   },
   {
     "id": 15,
     "title": "Obsidian",
     "companyName": "Dynalist Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/240px-2023_Obsidian_logo.svg.png",
+    "image": "https://www.google.com/s2/favicons?domain=obsidian.md&sz=128",
     "description": "Obsidian is a powerful knowledge base and note-taking app that works on top of a local folder of plain text Markdown files. It lets you build a personal knowledge graph with bidirectional links, making it perfect for researchers, writers, and developers.",
     "size": 30,
-    "reviews": 480000,
+    "reviews": 22000,
     "ratingAvg": 4.8,
-    "downloads": 5000000,
+    "downloads": 300000,
     "ratings": [
-      { "name": "1 star", "count": 4000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 14000 },
-      { "name": "4 star", "count": 88000 },
-      { "name": "5 star", "count": 371000 }
+      {
+        "name": "1 star",
+        "count": 183
+      },
+      {
+        "name": "2 star",
+        "count": 138
+      },
+      {
+        "name": "3 star",
+        "count": 642
+      },
+      {
+        "name": "4 star",
+        "count": 4033
+      },
+      {
+        "name": "5 star",
+        "count": 17004
+      }
     ]
   }
 ]
