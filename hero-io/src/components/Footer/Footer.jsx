@@ -9,13 +9,13 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2 mb-3">
-              <img src={logo} alt="Hero IO" className="h-7 w-auto" />
+              <img src={logo} alt="Productivity Master" className="h-7 w-auto" />
               <span className="font-bold text-[#7C3AED] text-base">
-                Hero IO
+                Productivity Master
               </span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Your one-stop destination for discovering and managing the best
+              Your one-stop destination for discovering and managing the best productive
               mobile apps.
             </p>
           </div>
@@ -77,7 +77,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-100 pt-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-gray-400">
-          <p>© {new Date().getFullYear()} Hero IO. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Productivity Master. All rights reserved.</p>
         </div>
       </div>
     </footer>

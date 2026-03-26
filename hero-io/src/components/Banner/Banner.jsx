@@ -12,7 +12,7 @@ const Banner = () => {
         </h1>
 
         <p className="text-gray-500 text-base sm:text-lg max-w-xl mx-auto mb-8 leading-relaxed">
-          At HERO.IO, we craft innovative apps designed to make everyday life
+          At Productivity Master, we craft innovative apps designed to make everyday life
           simpler, smarter, and more exciting. Our goal is to turn your ideas
           into digital experiences that truly make an impact.
         </p>

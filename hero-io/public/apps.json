@@ -493,5 +493,500 @@
         "count": 17004
       }
     ]
+  },
+  {
+    "id": 31,
+    "title": "Toggl Track",
+    "companyName": "Toggl OÜ",
+    "image": "https://www.google.com/s2/favicons?domain=toggl.com&sz=128",
+    "description": "Toggl Track is a simple and powerful time tracking tool. Track time across projects and clients, generate reports, and understand where your hours go. Used by freelancers and teams worldwide.",
+    "size": 24,
+    "reviews": 38000,
+    "ratingAvg": 4.6,
+    "downloads": 750000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 580
+      },
+      {
+        "name": "2 star",
+        "count": 420
+      },
+      {
+        "name": "3 star",
+        "count": 1900
+      },
+      {
+        "name": "4 star",
+        "count": 8200
+      },
+      {
+        "name": "5 star",
+        "count": 26900
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Habitica",
+    "companyName": "HabitRPG Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=habitica.com&sz=128",
+    "description": "Habitica is a habit-building and productivity app that treats your real life like a role-playing game. Level up your life by completing tasks, building habits, and achieving daily goals.",
+    "size": 30,
+    "reviews": 52000,
+    "ratingAvg": 4.5,
+    "downloads": 1100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 980
+      },
+      {
+        "name": "2 star",
+        "count": 720
+      },
+      {
+        "name": "3 star",
+        "count": 2800
+      },
+      {
+        "name": "4 star",
+        "count": 12000
+      },
+      {
+        "name": "5 star",
+        "count": 35500
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Focusmate",
+    "companyName": "Focusmate Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=focusmate.com&sz=128",
+    "description": "Focusmate is a virtual co-working platform that pairs you with an accountability partner for 50-minute focus sessions. Beat procrastination and get things done with real human accountability.",
+    "size": 18,
+    "reviews": 22000,
+    "ratingAvg": 4.7,
+    "downloads": 420000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 220
+      },
+      {
+        "name": "2 star",
+        "count": 160
+      },
+      {
+        "name": "3 star",
+        "count": 720
+      },
+      {
+        "name": "4 star",
+        "count": 4800
+      },
+      {
+        "name": "5 star",
+        "count": 16100
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "RescueTime",
+    "companyName": "RescueTime Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=rescuetime.com&sz=128",
+    "description": "RescueTime automatically tracks time spent on apps and websites, giving you an accurate picture of your day. Set goals, block distracting sites, and get detailed productivity reports.",
+    "size": 22,
+    "reviews": 28000,
+    "ratingAvg": 4.4,
+    "downloads": 580000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 560
+      },
+      {
+        "name": "2 star",
+        "count": 400
+      },
+      {
+        "name": "3 star",
+        "count": 1600
+      },
+      {
+        "name": "4 star",
+        "count": 6200
+      },
+      {
+        "name": "5 star",
+        "count": 19240
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Coda",
+    "companyName": "Coda.io Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=coda.io&sz=128",
+    "description": "Coda is a new type of document that blends the flexibility of docs with the power of spreadsheets and apps. Build powerful docs that work as well as your best spreadsheet.",
+    "size": 40,
+    "reviews": 34000,
+    "ratingAvg": 4.6,
+    "downloads": 680000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 420
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 1400
+      },
+      {
+        "name": "4 star",
+        "count": 7200
+      },
+      {
+        "name": "5 star",
+        "count": 24680
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Roam Research",
+    "companyName": "Roam Research Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=roamresearch.com&sz=128",
+    "description": "Roam Research is a note-taking tool for networked thought. As easy to use as a document, as powerful as a graph database. Build a second brain with bidirectional links.",
+    "size": 26,
+    "reviews": 18000,
+    "ratingAvg": 4.7,
+    "downloads": 320000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 180
+      },
+      {
+        "name": "2 star",
+        "count": 130
+      },
+      {
+        "name": "3 star",
+        "count": 580
+      },
+      {
+        "name": "4 star",
+        "count": 3800
+      },
+      {
+        "name": "5 star",
+        "count": 13310
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Logseq",
+    "companyName": "Logseq Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=logseq.com&sz=128",
+    "description": "Logseq is a privacy-first, open-source knowledge management and collaboration platform. It works on top of local plain-text Markdown and Org-mode files, perfect for building a personal knowledge base.",
+    "size": 28,
+    "reviews": 24000,
+    "ratingAvg": 4.8,
+    "downloads": 450000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 190
+      },
+      {
+        "name": "2 star",
+        "count": 140
+      },
+      {
+        "name": "3 star",
+        "count": 620
+      },
+      {
+        "name": "4 star",
+        "count": 5100
+      },
+      {
+        "name": "5 star",
+        "count": 17950
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Taskade",
+    "companyName": "Taskade Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=taskade.com&sz=128",
+    "description": "Taskade is an all-in-one collaboration platform with tasks, notes, mind maps, and video chat. Build workflows, manage projects, and collaborate with your team in real time.",
+    "size": 32,
+    "reviews": 29000,
+    "ratingAvg": 4.5,
+    "downloads": 560000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 440
+      },
+      {
+        "name": "2 star",
+        "count": 320
+      },
+      {
+        "name": "3 star",
+        "count": 1400
+      },
+      {
+        "name": "4 star",
+        "count": 6200
+      },
+      {
+        "name": "5 star",
+        "count": 20640
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Height",
+    "companyName": "Height Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=height.app&sz=128",
+    "description": "Height is an autonomous project collaboration tool. It combines tasks, docs, and chat in one place, with AI that automatically handles project management work for your team.",
+    "size": 36,
+    "reviews": 16000,
+    "ratingAvg": 4.6,
+    "downloads": 280000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 160
+      },
+      {
+        "name": "2 star",
+        "count": 120
+      },
+      {
+        "name": "3 star",
+        "count": 560
+      },
+      {
+        "name": "4 star",
+        "count": 3400
+      },
+      {
+        "name": "5 star",
+        "count": 11760
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Tana",
+    "companyName": "Tana Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=tana.inc&sz=128",
+    "description": "Tana is a powerful all-in-one workspace that combines notes, tasks, and databases. With supertags and AI assistance, it helps you build a flexible personal operating system.",
+    "size": 24,
+    "reviews": 12000,
+    "ratingAvg": 4.7,
+    "downloads": 210000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 120
+      },
+      {
+        "name": "2 star",
+        "count": 90
+      },
+      {
+        "name": "3 star",
+        "count": 420
+      },
+      {
+        "name": "4 star",
+        "count": 2600
+      },
+      {
+        "name": "5 star",
+        "count": 8770
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Capacities",
+    "companyName": "Capacities GmbH",
+    "image": "https://www.google.com/s2/favicons?domain=capacities.io&sz=128",
+    "description": "Capacities is a studio for your mind. It helps you capture, connect, and develop your ideas using object-based notes. Think of it as a personal knowledge management system built around objects.",
+    "size": 22,
+    "reviews": 9000,
+    "ratingAvg": 4.8,
+    "downloads": 160000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 90
+      },
+      {
+        "name": "2 star",
+        "count": 65
+      },
+      {
+        "name": "3 star",
+        "count": 310
+      },
+      {
+        "name": "4 star",
+        "count": 1900
+      },
+      {
+        "name": "5 star",
+        "count": 6635
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Reflect",
+    "companyName": "Reflect Notes Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=reflect.app&sz=128",
+    "description": "Reflect is a note-taking app that mirrors the way your brain works. With networked notes, daily journals, and AI assistance, it helps you think more clearly and remember more.",
+    "size": 20,
+    "reviews": 11000,
+    "ratingAvg": 4.7,
+    "downloads": 190000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 110
+      },
+      {
+        "name": "2 star",
+        "count": 80
+      },
+      {
+        "name": "3 star",
+        "count": 380
+      },
+      {
+        "name": "4 star",
+        "count": 2300
+      },
+      {
+        "name": "5 star",
+        "count": 8130
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Sunsama",
+    "companyName": "Sunsama Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=sunsama.com&sz=128",
+    "description": "Sunsama is a daily planner for busy professionals. It helps you plan your day by pulling tasks from Asana, Trello, GitHub, and more into a single focused daily view.",
+    "size": 26,
+    "reviews": 14000,
+    "ratingAvg": 4.6,
+    "downloads": 240000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 140
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 480
+      },
+      {
+        "name": "4 star",
+        "count": 3000
+      },
+      {
+        "name": "5 star",
+        "count": 10280
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Akiflow",
+    "companyName": "Akiflow Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=akiflow.com&sz=128",
+    "description": "Akiflow is a personal task manager and calendar app that consolidates all your tools in one place. Capture tasks from any app, plan your day, and stay focused with time blocking.",
+    "size": 28,
+    "reviews": 10000,
+    "ratingAvg": 4.6,
+    "downloads": 180000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 75
+      },
+      {
+        "name": "3 star",
+        "count": 360
+      },
+      {
+        "name": "4 star",
+        "count": 2100
+      },
+      {
+        "name": "5 star",
+        "count": 7365
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Motion",
+    "companyName": "Usemotion Inc.",
+    "image": "https://www.google.com/s2/favicons?domain=usemotion.com&sz=128",
+    "description": "Motion is an AI-powered calendar and task manager that automatically schedules your tasks and meetings. It builds the perfect daily schedule for you, adapting in real time as things change.",
+    "size": 32,
+    "reviews": 19000,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 340
+      },
+      {
+        "name": "2 star",
+        "count": 250
+      },
+      {
+        "name": "3 star",
+        "count": 1100
+      },
+      {
+        "name": "4 star",
+        "count": 4200
+      },
+      {
+        "name": "5 star",
+        "count": 13110
+      }
+    ]
   }
 ]

@@ -22,8 +22,8 @@ const Header = () => {
 
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 shrink-0">
-          <img src={logo} alt="Hero IO" className="h-8 w-auto" />
-          <span className="text-lg font-bold text-[#7C3AED]">Hero IO</span>
+          <img src={logo} alt="Productivity Master" className="h-8 w-auto" />
+          <span className="text-lg font-bold text-[#7C3AED]">Productivity Master</span>
         </Link>
 
         {/* Desktop nav */}

@@ -24,7 +24,7 @@ const AppCard = ({ app }) => {
   return (
     <div
       onClick={() => navigate(`/apps/${app.id}`)}
-      className="bg-white border border-gray-100 rounded-2xl p-4 cursor-pointer hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 group"
+      className="bg-gray-200 border border-gray-100 rounded-2xl p-4 cursor-pointer hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 group"
     >
       {/* App image */}
       <div className="w-full aspect-square bg-gray-100 rounded-xl mb-3 overflow-hidden flex items-center justify-center">
