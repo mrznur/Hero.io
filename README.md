@@ -21,5 +21,5 @@ npm run dev
 
 ## Links
 
-- Live: YOUR_DEPLOYED_URL_HERE
-- GitHub: YOUR_REPO_URL_HERE
+- Live: [(https://productivity-master.netlify.app/)]
+
