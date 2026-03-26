@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/168px-Spotify_logo_without_text.svg.png",
+    "description": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium.",
+    "size": 32,
+    "reviews": 4820000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 85000 },
+      { "name": "3 star", "count": 210000 },
+      { "name": "4 star", "count": 890000 },
+      { "name": "5 star", "count": 3515000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/120px-WhatsApp.svg.png",
+    "description": "WhatsApp Messenger is a freeware, cross-platform, centralized instant messaging and voice-over-IP service. It allows users to send text and voice messages, make voice and video calls, and share images, documents, user locations, and other content.",
+    "size": 45,
+    "reviews": 9200000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 420000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 6200000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/120px-Instagram_icon.png",
+    "description": "Instagram is a photo and video sharing social networking service. Users can upload photos and videos, follow other users' activity, apply digital filters, and organize posts by hashtags and geographical tagging.",
+    "size": 58,
+    "reviews": 11500000,
+    "ratingAvg": 4.3,
+    "downloads": 3500000000,
+    "ratings": [
+      { "name": "1 star", "count": 450000 },
+      { "name": "2 star", "count": 280000 },
+      { "name": "3 star", "count": 620000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 7350000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png",
+    "description": "YouTube is an American online video sharing and social media platform. It is the second most visited website in the world. Users can upload, view, rate, share, add to playlists, report, comment on videos, and subscribe to other users.",
+    "size": 72,
+    "reviews": 15000000,
+    "ratingAvg": 4.5,
+    "downloads": 8000000000,
+    "ratings": [
+      { "name": "1 star", "count": 380000 },
+      { "name": "2 star", "count": 220000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 10700000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/200px-Netflix_2015_logo.svg.png",
+    "description": "Netflix is a subscription-based streaming service that allows members to watch TV shows and movies without commercials on an internet-connected device. You can also download TV shows and movies to your iOS, Android, or Windows 10 device and watch without an internet connection.",
+    "size": 65,
+    "reviews": 7800000,
+    "ratingAvg": 4.4,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 210000 },
+      { "name": "2 star", "count": 140000 },
+      { "name": "3 star", "count": 380000 },
+      { "name": "4 star", "count": 1900000 },
+      { "name": "5 star", "count": 5170000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/120px-Telegram_logo.svg.png",
+    "description": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed. It lets you send messages, photos, videos and files of any type, as well as create groups for up to 200,000 people or channels for broadcasting to unlimited audiences.",
+    "size": 38,
+    "reviews": 5600000,
+    "ratingAvg": 4.7,
+    "downloads": 1200000000,
+    "ratings": [
+      { "name": "1 star", "count": 95000 },
+      { "name": "2 star", "count": 62000 },
+      { "name": "3 star", "count": 180000 },
+      { "name": "4 star", "count": 980000 },
+      { "name": "5 star", "count": 4283000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/200px-TikTok_logo.svg.png",
+    "description": "TikTok is a short-form video hosting service owned by ByteDance. It hosts user-submitted videos, which can range in duration from three seconds to ten minutes. TikTok is the leading destination for short-form mobile video.",
+    "size": 80,
+    "reviews": 13200000,
+    "ratingAvg": 4.2,
+    "downloads": 4500000000,
+    "ratings": [
+      { "name": "1 star", "count": 620000 },
+      { "name": "2 star", "count": 380000 },
+      { "name": "3 star", "count": 780000 },
+      { "name": "4 star", "count": 3100000 },
+      { "name": "5 star", "count": 8320000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Snapchat_logo.svg/120px-Snapchat_logo.svg.png",
+    "description": "Snapchat is a multimedia instant messaging app and service developed by Snap Inc. One of the principal features of Snapchat is that pictures and messages are usually only available for a short time before they become inaccessible to their recipients.",
+    "size": 55,
+    "reviews": 6400000,
+    "ratingAvg": 4.1,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 480000 },
+      { "name": "2 star", "count": 290000 },
+      { "name": "3 star", "count": 560000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 3270000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Uber",
+    "companyName": "Uber Technologies Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/200px-Uber_logo_2018.svg.png",
+    "description": "Uber is a technology company that offers ride-hailing services, food delivery, package delivery, couriers, freight transportation, electric bicycle and motorized scooter rental via a mobile app. Uber is headquartered in San Francisco, California.",
+    "size": 42,
+    "reviews": 4100000,
+    "ratingAvg": 4.3,
+    "downloads": 750000000,
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 310000 },
+      { "name": "4 star", "count": 980000 },
+      { "name": "5 star", "count": 2510000 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Duolingo_logo.svg/200px-Duolingo_logo.svg.png",
+    "description": "Duolingo is an American educational technology company that produces learning apps and provides language certification. The company offers its language-learning platform and app in various forms, including a website, an app, and a premium subscription.",
+    "size": 28,
+    "reviews": 8900000,
+    "ratingAvg": 4.8,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 72000 },
+      { "name": "2 star", "count": 48000 },
+      { "name": "3 star", "count": 130000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 7450000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/200px-Canva_Logo.svg.png",
+    "description": "Canva is a graphic design platform used to create social media graphics, presentations, posters, documents and other visual content. The app includes templates for users to use. The platform is free to use and offers paid subscriptions like Canva Pro and Canva for Enterprise.",
+    "size": 50,
+    "reviews": 3700000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 58000 },
+      { "name": "2 star", "count": 42000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 780000 },
+      { "name": "5 star", "count": 2700000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Notion",
+    "companyName": "Notion Labs Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "description": "Notion is a project management and note-taking software platform designed for note-taking, task management, and wiki creation. It is used by teams and individuals to organize their work and collaborate in real time.",
+    "size": 35,
+    "reviews": 2900000,
+    "ratingAvg": 4.6,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 45000 },
+      { "name": "2 star", "count": 32000 },
+      { "name": "3 star", "count": 98000 },
+      { "name": "4 star", "count": 620000 },
+      { "name": "5 star", "count": 2105000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/200px-Discord_logo.svg.png",
+    "description": "Discord is a VoIP and instant messaging social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called servers.",
+    "size": 48,
+    "reviews": 5100000,
+    "ratingAvg": 4.5,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 130000 },
+      { "name": "2 star", "count": 88000 },
+      { "name": "3 star", "count": 240000 },
+      { "name": "4 star", "count": 1100000 },
+      { "name": "5 star", "count": 3542000 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zoom_Communications_Logo.svg/200px-Zoom_Communications_Logo.svg.png",
+    "description": "Zoom is a proprietary videotelephony software program developed by Zoom Video Communications. The free plan allows up to 100 concurrent participants, with a 40-minute time restriction. Users have the option to upgrade by subscribing to a paid plan.",
+    "size": 60,
+    "reviews": 4500000,
+    "ratingAvg": 4.3,
+    "downloads": 900000000,
+    "ratings": [
+      { "name": "1 star", "count": 195000 },
+      { "name": "2 star", "count": 130000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 1050000 },
+      { "name": "5 star", "count": 2775000 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Shazam_icon.svg/120px-Shazam_icon.svg.png",
+    "description": "Shazam is an application that can identify music, movies, advertising, and television shows, based on a short sample played and using the microphone on the device. It was created by Shazam Entertainment, and is now owned by Apple Inc.",
+    "size": 22,
+    "reviews": 2100000,
+    "ratingAvg": 4.8,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 28000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 62000 },
+      { "name": "4 star", "count": 420000 },
+      { "name": "5 star", "count": 1572000 }
+    ]
+  }
+]
