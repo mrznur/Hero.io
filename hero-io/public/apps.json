@@ -1,211 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Spotify",
-    "companyName": "Spotify AB",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/168px-Spotify_logo_without_text.svg.png",
-    "description": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium.",
-    "size": 32,
-    "reviews": 4820000,
-    "ratingAvg": 4.6,
-    "downloads": 1000000000,
-    "ratings": [
-      { "name": "1 star", "count": 120000 },
-      { "name": "2 star", "count": 85000 },
-      { "name": "3 star", "count": 210000 },
-      { "name": "4 star", "count": 890000 },
-      { "name": "5 star", "count": 3515000 }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "WhatsApp",
-    "companyName": "Meta Platforms Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/120px-WhatsApp.svg.png",
-    "description": "WhatsApp Messenger is a freeware, cross-platform, centralized instant messaging and voice-over-IP service. It allows users to send text and voice messages, make voice and video calls, and share images, documents, user locations, and other content.",
-    "size": 45,
-    "reviews": 9200000,
-    "ratingAvg": 4.4,
-    "downloads": 5000000000,
-    "ratings": [
-      { "name": "1 star", "count": 300000 },
-      { "name": "2 star", "count": 180000 },
-      { "name": "3 star", "count": 420000 },
-      { "name": "4 star", "count": 2100000 },
-      { "name": "5 star", "count": 6200000 }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Instagram",
-    "companyName": "Meta Platforms Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/120px-Instagram_icon.png",
-    "description": "Instagram is a photo and video sharing social networking service. Users can upload photos and videos, follow other users' activity, apply digital filters, and organize posts by hashtags and geographical tagging.",
-    "size": 58,
-    "reviews": 11500000,
-    "ratingAvg": 4.3,
-    "downloads": 3500000000,
-    "ratings": [
-      { "name": "1 star", "count": 450000 },
-      { "name": "2 star", "count": 280000 },
-      { "name": "3 star", "count": 620000 },
-      { "name": "4 star", "count": 2800000 },
-      { "name": "5 star", "count": 7350000 }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "YouTube",
-    "companyName": "Google LLC",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png",
-    "description": "YouTube is an American online video sharing and social media platform. It is the second most visited website in the world. Users can upload, view, rate, share, add to playlists, report, comment on videos, and subscribe to other users.",
-    "size": 72,
-    "reviews": 15000000,
-    "ratingAvg": 4.5,
-    "downloads": 8000000000,
-    "ratings": [
-      { "name": "1 star", "count": 380000 },
-      { "name": "2 star", "count": 220000 },
-      { "name": "3 star", "count": 500000 },
-      { "name": "4 star", "count": 3200000 },
-      { "name": "5 star", "count": 10700000 }
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Netflix",
-    "companyName": "Netflix Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/200px-Netflix_2015_logo.svg.png",
-    "description": "Netflix is a subscription-based streaming service that allows members to watch TV shows and movies without commercials on an internet-connected device. You can also download TV shows and movies to your iOS, Android, or Windows 10 device and watch without an internet connection.",
-    "size": 65,
-    "reviews": 7800000,
-    "ratingAvg": 4.4,
-    "downloads": 1500000000,
-    "ratings": [
-      { "name": "1 star", "count": 210000 },
-      { "name": "2 star", "count": 140000 },
-      { "name": "3 star", "count": 380000 },
-      { "name": "4 star", "count": 1900000 },
-      { "name": "5 star", "count": 5170000 }
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Telegram",
-    "companyName": "Telegram FZ LLC",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/120px-Telegram_logo.svg.png",
-    "description": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed. It lets you send messages, photos, videos and files of any type, as well as create groups for up to 200,000 people or channels for broadcasting to unlimited audiences.",
-    "size": 38,
-    "reviews": 5600000,
-    "ratingAvg": 4.7,
-    "downloads": 1200000000,
-    "ratings": [
-      { "name": "1 star", "count": 95000 },
-      { "name": "2 star", "count": 62000 },
-      { "name": "3 star", "count": 180000 },
-      { "name": "4 star", "count": 980000 },
-      { "name": "5 star", "count": 4283000 }
-    ]
-  },
-  {
-    "id": 7,
-    "title": "TikTok",
-    "companyName": "ByteDance Ltd.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/200px-TikTok_logo.svg.png",
-    "description": "TikTok is a short-form video hosting service owned by ByteDance. It hosts user-submitted videos, which can range in duration from three seconds to ten minutes. TikTok is the leading destination for short-form mobile video.",
-    "size": 80,
-    "reviews": 13200000,
-    "ratingAvg": 4.2,
-    "downloads": 4500000000,
-    "ratings": [
-      { "name": "1 star", "count": 620000 },
-      { "name": "2 star", "count": 380000 },
-      { "name": "3 star", "count": 780000 },
-      { "name": "4 star", "count": 3100000 },
-      { "name": "5 star", "count": 8320000 }
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Snapchat",
-    "companyName": "Snap Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Snapchat_logo.svg/120px-Snapchat_logo.svg.png",
-    "description": "Snapchat is a multimedia instant messaging app and service developed by Snap Inc. One of the principal features of Snapchat is that pictures and messages are usually only available for a short time before they become inaccessible to their recipients.",
-    "size": 55,
-    "reviews": 6400000,
-    "ratingAvg": 4.1,
-    "downloads": 2000000000,
-    "ratings": [
-      { "name": "1 star", "count": 480000 },
-      { "name": "2 star", "count": 290000 },
-      { "name": "3 star", "count": 560000 },
-      { "name": "4 star", "count": 1800000 },
-      { "name": "5 star", "count": 3270000 }
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Uber",
-    "companyName": "Uber Technologies Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/200px-Uber_logo_2018.svg.png",
-    "description": "Uber is a technology company that offers ride-hailing services, food delivery, package delivery, couriers, freight transportation, electric bicycle and motorized scooter rental via a mobile app. Uber is headquartered in San Francisco, California.",
-    "size": 42,
-    "reviews": 4100000,
-    "ratingAvg": 4.3,
-    "downloads": 750000000,
-    "ratings": [
-      { "name": "1 star", "count": 180000 },
-      { "name": "2 star", "count": 120000 },
-      { "name": "3 star", "count": 310000 },
-      { "name": "4 star", "count": 980000 },
-      { "name": "5 star", "count": 2510000 }
-    ]
-  },
-  {
-    "id": 10,
-    "title": "Duolingo",
-    "companyName": "Duolingo Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Duolingo_logo.svg/200px-Duolingo_logo.svg.png",
-    "description": "Duolingo is an American educational technology company that produces learning apps and provides language certification. The company offers its language-learning platform and app in various forms, including a website, an app, and a premium subscription.",
-    "size": 28,
-    "reviews": 8900000,
-    "ratingAvg": 4.8,
-    "downloads": 600000000,
-    "ratings": [
-      { "name": "1 star", "count": 72000 },
-      { "name": "2 star", "count": 48000 },
-      { "name": "3 star", "count": 130000 },
-      { "name": "4 star", "count": 1200000 },
-      { "name": "5 star", "count": 7450000 }
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Canva",
-    "companyName": "Canva Pty Ltd",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/200px-Canva_Logo.svg.png",
-    "description": "Canva is a graphic design platform used to create social media graphics, presentations, posters, documents and other visual content. The app includes templates for users to use. The platform is free to use and offers paid subscriptions like Canva Pro and Canva for Enterprise.",
-    "size": 50,
-    "reviews": 3700000,
-    "ratingAvg": 4.7,
-    "downloads": 500000000,
-    "ratings": [
-      { "name": "1 star", "count": 58000 },
-      { "name": "2 star", "count": 42000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 780000 },
-      { "name": "5 star", "count": 2700000 }
-    ]
-  },
-  {
-    "id": 12,
     "title": "Notion",
     "companyName": "Notion Labs Inc.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
-    "description": "Notion is a project management and note-taking software platform designed for note-taking, task management, and wiki creation. It is used by teams and individuals to organize their work and collaborate in real time.",
+    "description": "Notion is an all-in-one workspace for notes, tasks, wikis, and databases. Teams and individuals use it to organize their work, manage projects, and collaborate in real time. It combines the functionality of a note-taking app, project management tool, and knowledge base into one flexible platform.",
     "size": 35,
     "reviews": 2900000,
-    "ratingAvg": 4.6,
+    "ratingAvg": 4.7,
     "downloads": 300000000,
     "ratings": [
       { "name": "1 star", "count": 45000 },
@@ -216,29 +18,137 @@
     ]
   },
   {
-    "id": 13,
-    "title": "Discord",
-    "companyName": "Discord Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/200px-Discord_logo.svg.png",
-    "description": "Discord is a VoIP and instant messaging social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called servers.",
-    "size": 48,
-    "reviews": 5100000,
-    "ratingAvg": 4.5,
-    "downloads": 800000000,
+    "id": 2,
+    "title": "Todoist",
+    "companyName": "Doist Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Todoist_logo.png/240px-Todoist_logo.png",
+    "description": "Todoist is a powerful task manager and to-do list app that helps you organize your work and life. With features like recurring due dates, priority levels, project templates, and team collaboration, Todoist keeps you on top of everything that matters.",
+    "size": 28,
+    "reviews": 1800000,
+    "ratingAvg": 4.6,
+    "downloads": 50000000,
     "ratings": [
-      { "name": "1 star", "count": 130000 },
-      { "name": "2 star", "count": 88000 },
-      { "name": "3 star", "count": 240000 },
-      { "name": "4 star", "count": 1100000 },
-      { "name": "5 star", "count": 3542000 }
+      { "name": "1 star", "count": 28000 },
+      { "name": "2 star", "count": 19000 },
+      { "name": "3 star", "count": 72000 },
+      { "name": "4 star", "count": 380000 },
+      { "name": "5 star", "count": 1301000 }
     ]
   },
   {
-    "id": 14,
+    "id": 3,
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/240px-Trello_logo.svg.png",
+    "description": "Trello is a visual project management tool that uses boards, lists, and cards to help teams organize and prioritize projects in a fun, flexible, and rewarding way. It's perfect for managing workflows, tracking progress, and collaborating with your team.",
+    "size": 42,
+    "reviews": 3200000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 52000 },
+      { "name": "2 star", "count": 38000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 720000 },
+      { "name": "5 star", "count": 2270000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Slack",
+    "companyName": "Salesforce Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/240px-Slack_icon_2019.svg.png",
+    "description": "Slack is a messaging platform built for teams. It replaces email with organized channels, direct messages, and powerful integrations with tools like Google Drive, GitHub, and Zoom. Slack makes it easy to find the right people and information quickly.",
+    "size": 55,
+    "reviews": 4100000,
+    "ratingAvg": 4.4,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 78000 },
+      { "name": "2 star", "count": 55000 },
+      { "name": "3 star", "count": 160000 },
+      { "name": "4 star", "count": 890000 },
+      { "name": "5 star", "count": 2917000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2021_Evernote_logo.svg/240px-2021_Evernote_logo.svg.png",
+    "description": "Evernote is a note-taking and organization app that helps you capture ideas, create to-do lists, and save web articles. With powerful search, tags, and notebooks, Evernote keeps all your information organized and accessible across all your devices.",
+    "size": 48,
+    "reviews": 2600000,
+    "ratingAvg": 4.3,
+    "downloads": 250000000,
+    "ratings": [
+      { "name": "1 star", "count": 68000 },
+      { "name": "2 star", "count": 47000 },
+      { "name": "3 star", "count": 145000 },
+      { "name": "4 star", "count": 580000 },
+      { "name": "5 star", "count": 1760000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/240px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png",
+    "description": "Microsoft Teams is a collaboration platform that combines workplace chat, video meetings, file storage, and application integration. It's the hub for teamwork in Microsoft 365, enabling remote and hybrid teams to stay connected and productive.",
+    "size": 72,
+    "reviews": 5800000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 145000 },
+      { "name": "2 star", "count": 98000 },
+      { "name": "3 star", "count": 280000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 4077000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Asana",
+    "companyName": "Asana Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Asana_logo.svg/240px-Asana_logo.svg.png",
+    "description": "Asana is a work management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives. With timelines, boards, and automation, Asana gives every team the clarity to focus on what matters most.",
+    "size": 38,
+    "reviews": 1500000,
+    "ratingAvg": 4.5,
+    "downloads": 80000000,
+    "ratings": [
+      { "name": "1 star", "count": 22000 },
+      { "name": "2 star", "count": 16000 },
+      { "name": "3 star", "count": 58000 },
+      { "name": "4 star", "count": 320000 },
+      { "name": "5 star", "count": 1084000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Google Keep",
+    "companyName": "Google LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Keep_icon_%282015-2020%29.svg/240px-Google_Keep_icon_%282015-2020%29.svg.png",
+    "description": "Google Keep is a note-taking service that allows users to create notes, lists, drawings, and record voice memos. Notes can be color-coded, labeled, and shared with others. It syncs seamlessly across all your Google devices.",
+    "size": 18,
+    "reviews": 3900000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 58000 },
+      { "name": "2 star", "count": 42000 },
+      { "name": "3 star", "count": 130000 },
+      { "name": "4 star", "count": 820000 },
+      { "name": "5 star", "count": 2850000 }
+    ]
+  },
+  {
+    "id": 9,
     "title": "Zoom",
     "companyName": "Zoom Video Communications",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zoom_Communications_Logo.svg/200px-Zoom_Communications_Logo.svg.png",
-    "description": "Zoom is a proprietary videotelephony software program developed by Zoom Video Communications. The free plan allows up to 100 concurrent participants, with a 40-minute time restriction. Users have the option to upgrade by subscribing to a paid plan.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zoom_Communications_Logo.svg/240px-Zoom_Communications_Logo.svg.png",
+    "description": "Zoom is a video communications platform that provides video conferencing, online meetings, chat, and mobile collaboration. It's used by millions of businesses and individuals for remote work, virtual events, webinars, and online education.",
     "size": 60,
     "reviews": 4500000,
     "ratingAvg": 4.3,
@@ -252,21 +162,111 @@
     ]
   },
   {
-    "id": 15,
-    "title": "Shazam",
-    "companyName": "Apple Inc.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Shazam_icon.svg/120px-Shazam_icon.svg.png",
-    "description": "Shazam is an application that can identify music, movies, advertising, and television shows, based on a short sample played and using the microphone on the device. It was created by Shazam Entertainment, and is now owned by Apple Inc.",
-    "size": 22,
-    "reviews": 2100000,
-    "ratingAvg": 4.8,
-    "downloads": 400000000,
+    "id": 10,
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/240px-Canva_Logo.svg.png",
+    "description": "Canva is a graphic design platform used to create presentations, social media graphics, posters, and documents. With thousands of templates and a drag-and-drop interface, anyone can design professional-quality visuals without any design experience.",
+    "size": 50,
+    "reviews": 3700000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
     "ratings": [
-      { "name": "1 star", "count": 28000 },
-      { "name": "2 star", "count": 18000 },
-      { "name": "3 star", "count": 62000 },
-      { "name": "4 star", "count": 420000 },
-      { "name": "5 star", "count": 1572000 }
+      { "name": "1 star", "count": 38000 },
+      { "name": "2 star", "count": 28000 },
+      { "name": "3 star", "count": 95000 },
+      { "name": "4 star", "count": 780000 },
+      { "name": "5 star", "count": 2759000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Grammarly",
+    "companyName": "Grammarly Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Grammarly_logo.svg/240px-Grammarly_logo.svg.png",
+    "description": "Grammarly is an AI-powered writing assistant that helps you write clearly and effectively. It checks grammar, spelling, punctuation, clarity, engagement, and delivery mistakes in real time, making your writing more polished and professional.",
+    "size": 32,
+    "reviews": 2200000,
+    "ratingAvg": 4.6,
+    "downloads": 150000000,
+    "ratings": [
+      { "name": "1 star", "count": 32000 },
+      { "name": "2 star", "count": 24000 },
+      { "name": "3 star", "count": 88000 },
+      { "name": "4 star", "count": 460000 },
+      { "name": "5 star", "count": 1596000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Forest",
+    "companyName": "Seekrtech Co. Ltd.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Forest_app_logo.png/240px-Forest_app_logo.png",
+    "description": "Forest is a focus and productivity app that helps you stay off your phone and concentrate on what matters. Plant a virtual tree and watch it grow while you work. If you leave the app, your tree dies. Build a forest of focus and track your productive time.",
+    "size": 22,
+    "reviews": 980000,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 764000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Clockify",
+    "companyName": "CAKE.com Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clockify_logo.svg/240px-Clockify_logo.svg.png",
+    "description": "Clockify is a free time tracking app for teams. Track work hours across projects, generate reports, and manage your team's time. It's used by freelancers, agencies, and businesses to track billable hours and improve productivity.",
+    "size": 26,
+    "reviews": 620000,
+    "ratingAvg": 4.5,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 28000 },
+      { "name": "4 star", "count": 130000 },
+      { "name": "5 star", "count": 446000 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Google Calendar",
+    "companyName": "Google LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/240px-Google_Calendar_icon_%282020%29.svg.png",
+    "description": "Google Calendar is a time-management and scheduling calendar service. It helps you organize your schedule, set reminders, create events, and share calendars with others. Integrated with Gmail and other Google services for seamless productivity.",
+    "size": 20,
+    "reviews": 6200000,
+    "ratingAvg": 4.6,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 95000 },
+      { "name": "2 star", "count": 68000 },
+      { "name": "3 star", "count": 210000 },
+      { "name": "4 star", "count": 1300000 },
+      { "name": "5 star", "count": 4527000 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Obsidian",
+    "companyName": "Dynalist Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/240px-2023_Obsidian_logo.svg.png",
+    "description": "Obsidian is a powerful knowledge base and note-taking app that works on top of a local folder of plain text Markdown files. It lets you build a personal knowledge graph with bidirectional links, making it perfect for researchers, writers, and developers.",
+    "size": 30,
+    "reviews": 480000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 88000 },
+      { "name": "5 star", "count": 371000 }
     ]
   }
 ]
