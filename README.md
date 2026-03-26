@@ -1,6 +1,6 @@
 # Productivity Master
 
-Productivity Master is a modern app-store inspired web platform for discovering, installing, and managing the best productivity apps. Browse 45 curated tools across categories like task management, note-taking, time tracking, and team collaboration — all in one place.
+Productivity Master is a modern app-store inspired web platform for discovering, installing, and managing the best productivity apps. Browse many curated tools across categories like task management, note-taking, time tracking, and team collaboration — all in one place.
 
 ## Technologies
 
