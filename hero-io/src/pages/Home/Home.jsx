@@ -20,7 +20,7 @@ const Home = () => {
           <h2 className="text-2xl sm:text-3xl font-bold text-white mb-10">
             Trusted By Millions, Built For You
           </h2>
-          <div className="grid lg:grid-cols-3 gap-6 sm:gap-12">
+          <div className="grid grid-cols-3 gap-6 sm:gap-12">
             <StatCard
               label="Total Downloads"
               value={formatNumber(totalDownloads)}

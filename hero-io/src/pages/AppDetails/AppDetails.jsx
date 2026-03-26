@@ -6,10 +6,13 @@ import LoadingSpinner from '../../components/LoadingSpinner/LoadingSpinner';
 import { formatNumber } from '../../utils/formatNumber';
 import { isAppInstalled, saveInstalledApp } from '../../utils/localStorage';
 import appErrorImg from '../../assets/App-Error.png';
+import iconRatings from '../../assets/icon-ratings.png';
+import iconDownloads from '../../assets/icon-downloads.png';
+import iconReview from '../../assets/icon-review.png';
 
 const StatPill = ({ icon, label, value }) => (
   <div className="flex flex-col items-center bg-gray-50 rounded-xl px-4 py-3 min-w-[80px]">
-    <span className="text-xl mb-1">{icon}</span>
+    <img src={icon} alt={label} className="w-6 h-6 object-contain mb-1" />
     <span className="text-sm font-bold text-gray-800">{value}</span>
     <span className="text-xs text-gray-400 mt-0.5">{label}</span>
   </div>
@@ -93,10 +96,9 @@ const AppDetails = () => {
 
               {/* Stat pills */}
               <div className="flex flex-wrap gap-3 mt-5">
-                <StatPill icon="⭐" label="Rating" value={app.ratingAvg} />
-                <StatPill icon="⬇️" label="Downloads" value={formatNumber(app.downloads)} />
-                <StatPill icon="💬" label="Reviews" value={formatNumber(app.reviews)} />
-                <StatPill icon="📦" label="Size" value={`${app.size}MB`} />
+                <StatPill icon={iconRatings} label="Rating" value={app.ratingAvg} />
+                <StatPill icon={iconDownloads} label="Downloads" value={formatNumber(app.downloads)} />
+                <StatPill icon={iconReview} label="Reviews" value={formatNumber(app.reviews)} />
               </div>
 
               <button

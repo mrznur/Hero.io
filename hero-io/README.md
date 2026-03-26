@@ -1,10 +1,16 @@
 # Productivity Master
 
-A modern app-store inspired platform for discovering, installing, and managing productivity apps — built with React and Vite.
+Productivity Master is a modern app-store inspired web platform for discovering, installing, and managing the best productivity apps. Browse 45 curated tools across categories like task management, note-taking, time tracking, and team collaboration — all in one place.
 
-## Tech Stack
+## Technologies
 
-React · Vite · Tailwind CSS · DaisyUI · Recharts · React Router · React Hot Toast
+- **React 18** — UI library
+- **Vite 5** — build tool and dev server
+- **React Router DOM v6** — client-side routing
+- **Tailwind CSS v3** — utility-first styling
+- **DaisyUI v5** — component library on top of Tailwind
+- **Recharts** — responsive rating bar charts
+- **React Hot Toast** — install/uninstall notifications
 
 ## Getting Started
 
@@ -16,4 +22,4 @@ npm run dev
 ## Links
 
 - Live: YOUR_DEPLOYED_URL_HERE
-- Repo: YOUR_REPO_URL_HERE
+- GitHub: YOUR_REPO_URL_HERE

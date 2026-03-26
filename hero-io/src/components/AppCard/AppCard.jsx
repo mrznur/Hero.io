@@ -1,5 +1,6 @@
 import { useNavigate } from 'react-router-dom';
 import { formatNumber } from '../../utils/formatNumber';
+import iconDownloads from '../../assets/icon-downloads.png';
 
 const StarRating = ({ rating }) => {
   return (
@@ -42,8 +43,9 @@ const AppCard = ({ app }) => {
 
       <StarRating rating={app.ratingAvg} />
 
-      <p className="text-xs text-gray-400 mt-1.5">
-        ⬇ {formatNumber(app.downloads)} downloads
+      <p className="text-xs text-gray-400 mt-1.5 flex items-center gap-1">
+        <img src={iconDownloads} alt="downloads" className="w-3.5 h-3.5 object-contain" />
+        {formatNumber(app.downloads)} downloads
       </p>
     </div>
   );
